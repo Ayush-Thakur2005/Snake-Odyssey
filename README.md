@@ -1,4 +1,4 @@
-Snake Odyssey
+
 Snake Odyssey is a modern take on the classic snake game, built using Python and Pygame. In this game, you control a snake that grows longer with each piece of food it eats. The objective is to avoid colliding with the walls or your own snake body, while trying to achieve the highest score possible. The game offers a smooth, addictive experience with simple controls and vibrant graphics.
 
 Features:
